@@ -1,1 +1,1 @@
-Esta archivo nos indica que estamos trabajando en estrategia gitflow
+Estamos haciendo cambios para buscar conflictos, rama conflicto 1
