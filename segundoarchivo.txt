@@ -1,1 +1,2 @@
 Estamos haciendo cambios para buscar conflictos, rama conflicto 1
+Estamos buscando el segundo conflicto en este archivo, en una segunda rama feature
