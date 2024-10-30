@@ -1,0 +1,15 @@
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/bin/Debug/net8.0/TestProject-console
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/bin/Debug/net8.0/TestProject-console.deps.json
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/bin/Debug/net8.0/TestProject-console.runtimeconfig.json
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/bin/Debug/net8.0/TestProject-console.dll
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/bin/Debug/net8.0/TestProject-console.pdb
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.AssemblyInfoInputs.cache
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.AssemblyInfo.cs
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.csproj.CoreCompileInputs.cache
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.sourcelink.json
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.dll
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/refint/TestProject-console.dll
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.pdb
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/TestProject-console.genruntimeconfig.cache
+/Users/alejandroyeeflores/Documents/Proyectos/Curso Ironhack/IronHackCourse-Yee/TestProject-console/obj/Debug/net8.0/ref/TestProject-console.dll
